@@ -1,10 +1,12 @@
 # 0x08. Recursion
 
-## Description
-This project focuses on learning and implementing recursion in C without the use of loops.
+This project contains solutions to recursion tasks in C.
 
-## Task: 0. _puts_recursion
-
-### Prototype
-```c
-void _puts_recursion(char *s);
+## Tasks
+- 0. _puts_recursion
+- 1. _print_rev_recursion
+- 2. _strlen_recursion
+- 3. factorial
+- 4. _pow_recursion
+- 5. _sqrt_recursion
+- 6. is_prime_number
