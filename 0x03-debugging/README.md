@@ -55,7 +55,7 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 file1.c file2.c -o output
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the compiled program:
 
