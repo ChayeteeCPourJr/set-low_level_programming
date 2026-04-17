@@ -52,7 +52,7 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 _putchar.c file.c -o output
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the compiled program:
 
