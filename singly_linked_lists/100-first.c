@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * before_main - Prints a string before main is executed
  */
